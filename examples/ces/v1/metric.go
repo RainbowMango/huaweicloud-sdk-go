@@ -5,7 +5,7 @@ import (
 	"fmt"
 
 	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/auth/aksk"
+	"github.com/huaweicloud/huaweicloud-sdk-go/auth/aksk"
 	"github.com/gophercloud/gophercloud/openstack"
 	"github.com/gophercloud/gophercloud/openstack/ces/v1/metrics"
 	"github.com/gophercloud/gophercloud/pagination"

@@ -5,7 +5,7 @@ import (
 	"os"
 	"github.com/gophercloud/gophercloud"
 	"github.com/gophercloud/gophercloud/openstack"
-	//"github.com/gophercloud/gophercloud/auth/aksk"
+	//"github.com/huaweicloud/huaweicloud-sdk-go/auth/aksk"
 	"github.com/gophercloud/gophercloud/auth/token"
 	"github.com/gophercloud/gophercloud/openstack/compute/v2/servers"
 )

@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/auth/aksk"
+	"github.com/huaweicloud/huaweicloud-sdk-go/auth/aksk"
 	"github.com/gophercloud/gophercloud/openstack"
 	"github.com/gophercloud/gophercloud/openstack/rds/v3/instances"
 	"github.com/gophercloud/gophercloud/pagination"

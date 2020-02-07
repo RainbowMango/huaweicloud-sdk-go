@@ -10,7 +10,7 @@ import (
 
 	"github.com/gophercloud/gophercloud"
 	"github.com/gophercloud/gophercloud/auth"
-	akskAuth "github.com/gophercloud/gophercloud/auth/aksk"
+	akskAuth "github.com/huaweicloud/huaweicloud-sdk-go/auth/aksk"
 	tokenAuth "github.com/gophercloud/gophercloud/auth/token"
 	tokens2 "github.com/gophercloud/gophercloud/openstack/identity/v2/tokens"
 	tokens3 "github.com/gophercloud/gophercloud/openstack/identity/v3/tokens"

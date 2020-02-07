@@ -5,7 +5,7 @@ import (
 	"github.com/gophercloud/gophercloud"
 	"github.com/gophercloud/gophercloud/openstack"
 	"github.com/gophercloud/gophercloud/openstack/ecs/v1/cloudserversext"
-	"github.com/gophercloud/gophercloud/auth/aksk"
+	"github.com/huaweicloud/huaweicloud-sdk-go/auth/aksk"
 )
 
 func main() {

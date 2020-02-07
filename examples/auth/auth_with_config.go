@@ -7,7 +7,7 @@ import (
 	"github.com/gophercloud/gophercloud/openstack"
 	"github.com/gophercloud/gophercloud/openstack/compute/v2/servers"
 	"github.com/gophercloud/gophercloud/pagination"
-	"github.com/gophercloud/gophercloud/auth/aksk"
+	"github.com/huaweicloud/huaweicloud-sdk-go/auth/aksk"
 	"net/http"
 	"crypto/tls"
 )

@@ -8,7 +8,7 @@ import (
 	"github.com/gophercloud/gophercloud/openstack/compute/v2/extensions/keypairs"
 	"encoding/json"
 	"github.com/gophercloud/gophercloud/openstack/compute/v2/extensions/startstop"
-	"github.com/gophercloud/gophercloud/auth/aksk"
+	"github.com/huaweicloud/huaweicloud-sdk-go/auth/aksk"
 	"github.com/gophercloud/gophercloud/openstack/compute/v2/extensions/bootfromvolume"
 	"github.com/gophercloud/gophercloud/openstack/compute/v2/extensions/attachinterfaces"
 )

@@ -4,7 +4,7 @@ import (
 	"github.com/gophercloud/gophercloud/openstack"
 	"github.com/gophercloud/gophercloud"
 	"fmt"
-	"github.com/gophercloud/gophercloud/auth/aksk"
+	"github.com/huaweicloud/huaweicloud-sdk-go/auth/aksk"
 	"github.com/gophercloud/gophercloud/openstack/ecs/v2/cloudservers"
 )
 
