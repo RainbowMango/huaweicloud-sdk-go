@@ -3,7 +3,7 @@ package defsecrules
 import (
 	"encoding/json"
 
-	"github.com/gophercloud/gophercloud"
+	"github.com/huaweicloud/huaweicloud-sdk-go/gophercloud"
 	"github.com/gophercloud/gophercloud/openstack/compute/v2/extensions/secgroups"
 	"github.com/gophercloud/gophercloud/pagination"
 )

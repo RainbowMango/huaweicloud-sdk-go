@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"testing"
 	tokenAuth "github.com/huaweicloud/huaweicloud-sdk-go/auth/token"
-	"github.com/gophercloud/gophercloud"
+	"github.com/huaweicloud/huaweicloud-sdk-go/gophercloud"
 	"github.com/gophercloud/gophercloud/openstack"
 	th "github.com/gophercloud/gophercloud/testhelper"
 )

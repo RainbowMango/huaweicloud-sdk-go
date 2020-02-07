@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/gophercloud/gophercloud"
+	"github.com/huaweicloud/huaweicloud-sdk-go/gophercloud"
 )
 
 // Environment is a structure that represents stack environments

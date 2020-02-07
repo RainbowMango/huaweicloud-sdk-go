@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"os"
-	"github.com/gophercloud/gophercloud"
+	"github.com/huaweicloud/huaweicloud-sdk-go/gophercloud"
 	"github.com/huaweicloud/huaweicloud-sdk-go/auth/token"
 	"github.com/gophercloud/gophercloud/openstack"
 	"github.com/gophercloud/gophercloud/openstack/imageservice/v2/imagedata"

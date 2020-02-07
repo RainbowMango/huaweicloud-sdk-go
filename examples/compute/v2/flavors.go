@@ -3,7 +3,7 @@ package main
 import (
 	"github.com/huaweicloud/huaweicloud-sdk-go/auth/token"
 	"github.com/gophercloud/gophercloud/openstack"
-	"github.com/gophercloud/gophercloud"
+	"github.com/huaweicloud/huaweicloud-sdk-go/gophercloud"
 	"fmt"
 	"github.com/gophercloud/gophercloud/openstack/compute/v2/flavors"
 	"encoding/json"

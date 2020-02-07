@@ -1,7 +1,7 @@
 package configurations
 
 import (
-	"github.com/gophercloud/gophercloud"
+	"github.com/huaweicloud/huaweicloud-sdk-go/gophercloud"
 	"github.com/gophercloud/gophercloud/openstack/db/v1/instances"
 	"github.com/gophercloud/gophercloud/pagination"
 )

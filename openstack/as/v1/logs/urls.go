@@ -1,7 +1,7 @@
 package logs
 
 import (
-	"github.com/gophercloud/gophercloud"
+	"github.com/huaweicloud/huaweicloud-sdk-go/gophercloud"
 )
 
 func ListURL(c *gophercloud.ServiceClient, scalingGroupId string) string {

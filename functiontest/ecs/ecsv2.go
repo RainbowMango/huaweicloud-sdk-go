@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"github.com/gophercloud/gophercloud/functiontest/common"
-	"github.com/gophercloud/gophercloud"
+	"github.com/huaweicloud/huaweicloud-sdk-go/gophercloud"
 	"github.com/gophercloud/gophercloud/openstack"
 	cloudserversV2 "github.com/gophercloud/gophercloud/openstack/ecs/v2/cloudservers"
 

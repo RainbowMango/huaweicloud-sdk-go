@@ -4,7 +4,7 @@ import (
     "fmt"
     "testing"
     "net/http"
-    "github.com/gophercloud/gophercloud"
+    "github.com/huaweicloud/huaweicloud-sdk-go/gophercloud"
     "github.com/gophercloud/gophercloud/testhelper"
     "github.com/gophercloud/gophercloud/openstack/fgs/v2/function"
     "github.com/gophercloud/gophercloud/testhelper/client"

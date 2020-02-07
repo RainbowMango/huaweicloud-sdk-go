@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gophercloud/gophercloud"
+	"github.com/huaweicloud/huaweicloud-sdk-go/gophercloud"
 	"github.com/gophercloud/gophercloud/openstack/db/v1/datastores"
 	"github.com/gophercloud/gophercloud/openstack/db/v1/instances"
 	"github.com/gophercloud/gophercloud/testhelper/fixture"

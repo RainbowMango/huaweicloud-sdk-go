@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/gophercloud/gophercloud/openstack"
-	"github.com/gophercloud/gophercloud"
+	"github.com/huaweicloud/huaweicloud-sdk-go/gophercloud"
 	"fmt"
 	"github.com/gophercloud/gophercloud/openstack/compute/v2/servers"
 	"github.com/gophercloud/gophercloud/openstack/compute/v2/extensions/keypairs"

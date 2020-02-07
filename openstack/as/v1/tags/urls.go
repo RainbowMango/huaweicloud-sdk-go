@@ -1,7 +1,7 @@
 package tags
 
 import (
-	"github.com/gophercloud/gophercloud"
+	"github.com/huaweicloud/huaweicloud-sdk-go/gophercloud"
 )
 
 func ListResourceTagsURL(c *gophercloud.ServiceClient, resourceType string, resourceId string) string {

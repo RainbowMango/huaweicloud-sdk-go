@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/gophercloud/gophercloud"
+	"github.com/huaweicloud/huaweicloud-sdk-go/gophercloud"
 	"github.com/gophercloud/gophercloud/openstack/db/v1/configurations"
 )
 

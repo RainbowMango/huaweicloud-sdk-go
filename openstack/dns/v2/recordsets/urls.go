@@ -1,6 +1,6 @@
 package recordsets
 
-import "github.com/gophercloud/gophercloud"
+import "github.com/huaweicloud/huaweicloud-sdk-go/gophercloud"
 
 func baseURL(c *gophercloud.ServiceClient, zoneID string) string {
 	return c.ServiceURL("zones", zoneID, "recordsets")

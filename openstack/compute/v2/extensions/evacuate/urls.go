@@ -1,7 +1,7 @@
 package evacuate
 
 import (
-	"github.com/gophercloud/gophercloud"
+	"github.com/huaweicloud/huaweicloud-sdk-go/gophercloud"
 )
 
 func actionURL(client *gophercloud.ServiceClient, id string) string {

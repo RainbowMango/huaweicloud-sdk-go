@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gophercloud/gophercloud"
+	"github.com/huaweicloud/huaweicloud-sdk-go/gophercloud"
 	"github.com/gophercloud/gophercloud/openstack/objectstorage/v1/accounts"
 	"github.com/gophercloud/gophercloud/pagination"
 )

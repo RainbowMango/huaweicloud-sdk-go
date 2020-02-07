@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"github.com/gophercloud/gophercloud/functiontest/common"
 
-	"github.com/gophercloud/gophercloud"
+	"github.com/huaweicloud/huaweicloud-sdk-go/gophercloud"
 	"github.com/gophercloud/gophercloud/openstack"
 	v1 "github.com/gophercloud/gophercloud/openstack/blockstorage/v1/volumes"
 	"github.com/gophercloud/gophercloud/openstack/blockstorage/v2/volumes"

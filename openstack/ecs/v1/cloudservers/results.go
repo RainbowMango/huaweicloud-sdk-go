@@ -1,7 +1,7 @@
 package cloudservers
 
 import (
-	"github.com/gophercloud/gophercloud"
+	"github.com/huaweicloud/huaweicloud-sdk-go/gophercloud"
 	"github.com/gophercloud/gophercloud/pagination"
 	"time"
 )

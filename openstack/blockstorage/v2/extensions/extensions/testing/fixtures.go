@@ -8,7 +8,7 @@ import (
 	"github.com/gophercloud/gophercloud/openstack/blockstorage/v2/extensions/extensions"
 	th "github.com/gophercloud/gophercloud/testhelper"
 	"github.com/gophercloud/gophercloud/testhelper/client"
-	"github.com/gophercloud/gophercloud"
+	"github.com/huaweicloud/huaweicloud-sdk-go/gophercloud"
 )
 
 // ListOutput provides a single page of Extension results.

@@ -3,7 +3,7 @@ package instances
 import (
 	"fmt"
 
-	"github.com/gophercloud/gophercloud"
+	"github.com/huaweicloud/huaweicloud-sdk-go/gophercloud"
 	db "github.com/gophercloud/gophercloud/openstack/db/v1/databases"
 	"github.com/gophercloud/gophercloud/openstack/db/v1/users"
 	"github.com/gophercloud/gophercloud/pagination"

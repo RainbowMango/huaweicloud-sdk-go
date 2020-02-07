@@ -8,7 +8,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/gophercloud/gophercloud"
+	"github.com/huaweicloud/huaweicloud-sdk-go/gophercloud"
 	"github.com/huaweicloud/huaweicloud-sdk-go/auth"
 	akskAuth "github.com/huaweicloud/huaweicloud-sdk-go/auth/aksk"
 	tokenAuth "github.com/huaweicloud/huaweicloud-sdk-go/auth/token"

@@ -3,7 +3,7 @@ package bootwithscheduler
 import (
 	"fmt"
 
-	"github.com/gophercloud/gophercloud"
+	"github.com/huaweicloud/huaweicloud-sdk-go/gophercloud"
 	volume "github.com/gophercloud/gophercloud/openstack/compute/v2/extensions/bootfromvolume"
 	hints "github.com/gophercloud/gophercloud/openstack/compute/v2/extensions/schedulerhints"
 	"github.com/gophercloud/gophercloud/openstack/compute/v2/servers"

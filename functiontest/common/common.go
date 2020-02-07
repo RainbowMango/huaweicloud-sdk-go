@@ -9,7 +9,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/gophercloud/gophercloud"
+	"github.com/huaweicloud/huaweicloud-sdk-go/gophercloud"
 	"github.com/huaweicloud/huaweicloud-sdk-go/auth/aksk"
 	"github.com/huaweicloud/huaweicloud-sdk-go/auth/token"
 	"github.com/gophercloud/gophercloud/openstack"

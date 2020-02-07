@@ -1,6 +1,6 @@
 package tenantnetworks
 
-import "github.com/gophercloud/gophercloud"
+import "github.com/huaweicloud/huaweicloud-sdk-go/gophercloud"
 
 const resourcePath = "os-tenant-networks"
 

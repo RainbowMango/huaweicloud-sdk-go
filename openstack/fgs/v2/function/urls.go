@@ -1,6 +1,6 @@
 package function
 
-import "github.com/gophercloud/gophercloud"
+import "github.com/huaweicloud/huaweicloud-sdk-go/gophercloud"
 
 const (
     FGS      = "fgs"

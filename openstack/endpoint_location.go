@@ -3,7 +3,7 @@ package openstack
 import (
 	"fmt"
 
-	"github.com/gophercloud/gophercloud"
+	"github.com/huaweicloud/huaweicloud-sdk-go/gophercloud"
 	"github.com/huaweicloud/huaweicloud-sdk-go/auth/aksk"
 	tokenAuth "github.com/huaweicloud/huaweicloud-sdk-go/auth/token"
 	tokens2 "github.com/gophercloud/gophercloud/openstack/identity/v2/tokens"

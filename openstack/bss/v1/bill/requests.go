@@ -1,6 +1,6 @@
 package bill
 
-import "github.com/gophercloud/gophercloud"
+import "github.com/huaweicloud/huaweicloud-sdk-go/gophercloud"
 
 type QueryPartnerMonthlyBillsOpts struct {
 	//Customer Id

@@ -2,7 +2,7 @@ package testing
 
 import (
 	"fmt"
-	"github.com/gophercloud/gophercloud"
+	"github.com/huaweicloud/huaweicloud-sdk-go/gophercloud"
 	"testing"
 
 	"github.com/gophercloud/gophercloud/openstack/rds/v3/instances"

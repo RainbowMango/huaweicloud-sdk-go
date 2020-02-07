@@ -1,6 +1,6 @@
 package bill
 
-import "github.com/gophercloud/gophercloud"
+import "github.com/huaweicloud/huaweicloud-sdk-go/gophercloud"
 
 //GET /v1.0/{partner_id}/partner/account-mgr/postpaid-bill-summary
 func getQueryPartnerMonthlyBillsURL(client *gophercloud.ServiceClient, domainId string) string {

@@ -1,7 +1,7 @@
 package cloudimages
 
 import (
-	"github.com/gophercloud/gophercloud"
+	"github.com/huaweicloud/huaweicloud-sdk-go/gophercloud"
 )
 
 // ListImageTagsOpts is the options for list image tags operation

@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/gophercloud/gophercloud"
+	"github.com/huaweicloud/huaweicloud-sdk-go/gophercloud"
 	"github.com/gophercloud/gophercloud/pagination"
 )
 
@@ -175,7 +175,7 @@ func (r *Zone) UnmarshalJSON(b []byte) error {
 package zones
 
 import (
-	"github.com/gophercloud/gophercloud"
+	"github.com/huaweicloud/huaweicloud-sdk-go/gophercloud"
 	"github.com/gophercloud/gophercloud/pagination"
 )
 

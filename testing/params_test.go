@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gophercloud/gophercloud"
+	"github.com/huaweicloud/huaweicloud-sdk-go/gophercloud"
 	th "github.com/gophercloud/gophercloud/testhelper"
 )
 

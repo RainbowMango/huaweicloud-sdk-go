@@ -4,7 +4,7 @@ import (
     "fmt"
     "github.com/huaweicloud/huaweicloud-sdk-go/auth/token"
     "github.com/gophercloud/gophercloud/openstack"
-    "github.com/gophercloud/gophercloud"
+    "github.com/huaweicloud/huaweicloud-sdk-go/gophercloud"
     "github.com/gophercloud/gophercloud/openstack/fgs/v2/function"
     "github.com/gophercloud/gophercloud/openstack/fgs/v2/trigger"
     "github.com/gophercloud/gophercloud/functiontest/fgs/Common"

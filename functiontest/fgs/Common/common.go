@@ -3,7 +3,7 @@ package Common
 import (
     "fmt"
     "encoding/json"
-    "github.com/gophercloud/gophercloud"
+    "github.com/huaweicloud/huaweicloud-sdk-go/gophercloud"
 )
 
 //打印結果

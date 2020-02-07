@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/gophercloud/gophercloud"
+	"github.com/huaweicloud/huaweicloud-sdk-go/gophercloud"
 	th "github.com/gophercloud/gophercloud/testhelper"
 	"encoding/json"
 	"bytes"

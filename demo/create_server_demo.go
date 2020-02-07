@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/gophercloud/gophercloud"
+	"github.com/huaweicloud/huaweicloud-sdk-go/gophercloud"
 	"github.com/gophercloud/gophercloud/openstack"
 	"github.com/gophercloud/gophercloud/openstack/compute/v2/servers"
 	createOpts "github.com/gophercloud/gophercloud/openstack/compute/v2/extensions/bootfromvolume"
