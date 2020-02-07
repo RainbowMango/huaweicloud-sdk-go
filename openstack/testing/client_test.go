@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 	"testing"
-	tokenAuth "github.com/gophercloud/gophercloud/auth/token"
+	tokenAuth "github.com/huaweicloud/huaweicloud-sdk-go/auth/token"
 	"github.com/gophercloud/gophercloud"
 	"github.com/gophercloud/gophercloud/openstack"
 	th "github.com/gophercloud/gophercloud/testhelper"

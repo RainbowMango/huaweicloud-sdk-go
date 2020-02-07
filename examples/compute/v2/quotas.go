@@ -5,7 +5,7 @@ import (
 	"github.com/gophercloud/gophercloud"
 	"github.com/gophercloud/gophercloud/openstack"
 	"github.com/gophercloud/gophercloud/openstack/compute/v2/extensions/quotasets"
-	"github.com/gophercloud/gophercloud/auth/token"
+	"github.com/huaweicloud/huaweicloud-sdk-go/auth/token"
 )
 
 func main() {

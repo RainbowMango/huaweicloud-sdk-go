@@ -5,7 +5,7 @@ import (
 
 	"github.com/gophercloud/gophercloud"
 	"github.com/huaweicloud/huaweicloud-sdk-go/auth/aksk"
-	"github.com/gophercloud/gophercloud/auth/token"
+	"github.com/huaweicloud/huaweicloud-sdk-go/auth/token"
 	"github.com/gophercloud/gophercloud/openstack"
 	"github.com/gophercloud/gophercloud/openstack/compute/v2/extensions/bootfromvolume"
 	"github.com/gophercloud/gophercloud/openstack/compute/v2/extensions/bootwithscheduler"

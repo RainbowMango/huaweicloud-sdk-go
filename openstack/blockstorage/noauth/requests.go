@@ -5,7 +5,7 @@ import (
 	"strings"
 
 	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/auth/token"
+	"github.com/huaweicloud/huaweicloud-sdk-go/auth/token"
 )
 
 // EndpointOpts specifies a "noauth" Cinder Endpoint.

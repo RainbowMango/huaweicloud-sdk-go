@@ -4,7 +4,7 @@ import (
 	"github.com/gophercloud/gophercloud/openstack"
 	"fmt"
 	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/auth/token"
+	"github.com/huaweicloud/huaweicloud-sdk-go/auth/token"
 	"github.com/gophercloud/gophercloud/openstack/ecs/v1_1/cloudservers"
 	"time"
 	"encoding/json"

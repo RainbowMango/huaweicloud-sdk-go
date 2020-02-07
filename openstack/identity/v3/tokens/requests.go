@@ -2,7 +2,7 @@ package tokens
 
 import (
 	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/auth/token"
+	"github.com/huaweicloud/huaweicloud-sdk-go/auth/token"
 )
 
 // Scope allows a created token to be limited to a specific domain or project.
