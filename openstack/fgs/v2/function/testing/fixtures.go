@@ -1,7 +1,7 @@
 package testing
 
 import (
-    "github.com/gophercloud/gophercloud/openstack/fgs/v2/function"
+    "github.com/RainbowMango/huaweicloud-sdk-go/openstack/fgs/v2/function"
 )
 
 var ListBody = `

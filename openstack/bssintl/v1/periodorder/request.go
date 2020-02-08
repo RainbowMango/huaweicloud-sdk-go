@@ -1,6 +1,6 @@
 package periodorder
 
-import "github.com/gophercloud/gophercloud"
+import "github.com/RainbowMango/huaweicloud-sdk-go"
 
 type QueryOrderListOpts struct {
 	//Order ID.

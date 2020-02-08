@@ -1,7 +1,7 @@
 package account
 
 import (
-	"github.com/gophercloud/gophercloud"
+	"github.com/RainbowMango/huaweicloud-sdk-go"
 )
 
 type ResourceDaily struct {

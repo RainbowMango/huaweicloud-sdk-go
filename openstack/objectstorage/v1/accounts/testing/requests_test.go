@@ -4,9 +4,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gophercloud/gophercloud/openstack/objectstorage/v1/accounts"
-	th "github.com/gophercloud/gophercloud/testhelper"
-	fake "github.com/gophercloud/gophercloud/testhelper/client"
+	"github.com/RainbowMango/huaweicloud-sdk-go/openstack/objectstorage/v1/accounts"
+	th "github.com/RainbowMango/huaweicloud-sdk-go/testhelper"
+	fake "github.com/RainbowMango/huaweicloud-sdk-go/testhelper/client"
 )
 
 var (

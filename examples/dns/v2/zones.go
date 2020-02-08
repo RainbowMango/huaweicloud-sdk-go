@@ -3,11 +3,11 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/auth/token"
-	"github.com/gophercloud/gophercloud/openstack"
-	"github.com/gophercloud/gophercloud/openstack/dns/v2/zones"
-	"github.com/gophercloud/gophercloud/pagination"
+	"github.com/RainbowMango/huaweicloud-sdk-go"
+	"github.com/RainbowMango/huaweicloud-sdk-go/auth/token"
+	"github.com/RainbowMango/huaweicloud-sdk-go/openstack"
+	"github.com/RainbowMango/huaweicloud-sdk-go/openstack/dns/v2/zones"
+	"github.com/RainbowMango/huaweicloud-sdk-go/pagination"
 )
 
 func main() {

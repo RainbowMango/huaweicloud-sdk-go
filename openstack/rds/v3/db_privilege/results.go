@@ -1,7 +1,7 @@
 package db_privilege
 
 import (
-	"github.com/gophercloud/gophercloud"
+	"github.com/RainbowMango/huaweicloud-sdk-go"
 )
 
 

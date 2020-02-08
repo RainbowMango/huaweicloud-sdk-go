@@ -1,8 +1,8 @@
 package configurations
 
 import (
-	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/pagination"
+	"github.com/RainbowMango/huaweicloud-sdk-go"
+	"github.com/RainbowMango/huaweicloud-sdk-go/pagination"
 )
 
 func List(client *gophercloud.ServiceClient) pagination.Pager {

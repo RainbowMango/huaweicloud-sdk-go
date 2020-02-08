@@ -2,10 +2,10 @@ package testing
 
 import (
 	"testing"
-	"github.com/gophercloud/gophercloud/openstack/networking/v2/extensions/lbaas_v2/certificates"
-	th "github.com/gophercloud/gophercloud/testhelper"
+	"github.com/RainbowMango/huaweicloud-sdk-go/openstack/networking/v2/extensions/lbaas_v2/certificates"
+	th "github.com/RainbowMango/huaweicloud-sdk-go/testhelper"
 	"net/http"
-	"github.com/gophercloud/gophercloud/testhelper/client"
+	"github.com/RainbowMango/huaweicloud-sdk-go/testhelper/client"
 	"fmt"
 )
 

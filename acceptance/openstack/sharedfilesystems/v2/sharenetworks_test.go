@@ -3,10 +3,10 @@ package v2
 import (
 	"testing"
 
-	"github.com/gophercloud/gophercloud/acceptance/clients"
-	"github.com/gophercloud/gophercloud/openstack/sharedfilesystems/v2/sharenetworks"
-	"github.com/gophercloud/gophercloud/pagination"
-	th "github.com/gophercloud/gophercloud/testhelper"
+	"github.com/RainbowMango/huaweicloud-sdk-go/acceptance/clients"
+	"github.com/RainbowMango/huaweicloud-sdk-go/openstack/sharedfilesystems/v2/sharenetworks"
+	"github.com/RainbowMango/huaweicloud-sdk-go/pagination"
+	th "github.com/RainbowMango/huaweicloud-sdk-go/testhelper"
 )
 
 func TestShareNetworkCreateDestroy(t *testing.T) {

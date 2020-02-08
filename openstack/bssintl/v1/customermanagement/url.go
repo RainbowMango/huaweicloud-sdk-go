@@ -1,6 +1,6 @@
 package customermanagement
 
-import "github.com/gophercloud/gophercloud"
+import "github.com/RainbowMango/huaweicloud-sdk-go"
 
 
 // POST /v1.0/{partner_id}/partner/customer-mgr/check-user

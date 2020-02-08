@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/pagination"
+	"github.com/RainbowMango/huaweicloud-sdk-go"
+	"github.com/RainbowMango/huaweicloud-sdk-go/pagination"
 )
 
 // List will return a collection of default rules.

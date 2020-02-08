@@ -1,7 +1,7 @@
 package events
 
 import (
-	"github.com/gophercloud/gophercloud"
+	"github.com/RainbowMango/huaweicloud-sdk-go"
 )
 
 func createURL(c *gophercloud.ServiceClient) string {

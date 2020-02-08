@@ -5,9 +5,9 @@ package v2
 import (
 	"testing"
 
-	"github.com/gophercloud/gophercloud/acceptance/clients"
-	"github.com/gophercloud/gophercloud/acceptance/tools"
-	dsr "github.com/gophercloud/gophercloud/openstack/compute/v2/extensions/defsecrules"
+	"github.com/RainbowMango/huaweicloud-sdk-go/acceptance/clients"
+	"github.com/RainbowMango/huaweicloud-sdk-go/acceptance/tools"
+	dsr "github.com/RainbowMango/huaweicloud-sdk-go/openstack/compute/v2/extensions/defsecrules"
 )
 
 func TestDefSecRulesList(t *testing.T) {

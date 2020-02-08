@@ -4,10 +4,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gophercloud/gophercloud/openstack/sharedfilesystems/v2/sharenetworks"
-	"github.com/gophercloud/gophercloud/pagination"
-	th "github.com/gophercloud/gophercloud/testhelper"
-	"github.com/gophercloud/gophercloud/testhelper/client"
+	"github.com/RainbowMango/huaweicloud-sdk-go/openstack/sharedfilesystems/v2/sharenetworks"
+	"github.com/RainbowMango/huaweicloud-sdk-go/pagination"
+	th "github.com/RainbowMango/huaweicloud-sdk-go/testhelper"
+	"github.com/RainbowMango/huaweicloud-sdk-go/testhelper/client"
 )
 
 // Verifies that a share network can be created correctly

@@ -1,9 +1,9 @@
 package users
 
 import (
-	"github.com/gophercloud/gophercloud"
-	db "github.com/gophercloud/gophercloud/openstack/db/v1/databases"
-	"github.com/gophercloud/gophercloud/pagination"
+	"github.com/RainbowMango/huaweicloud-sdk-go"
+	db "github.com/RainbowMango/huaweicloud-sdk-go/openstack/db/v1/databases"
+	"github.com/RainbowMango/huaweicloud-sdk-go/pagination"
 )
 
 // User represents a database user

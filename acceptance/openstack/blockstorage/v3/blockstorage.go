@@ -6,10 +6,10 @@ package v3
 import (
 	"testing"
 
-	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/acceptance/tools"
-	"github.com/gophercloud/gophercloud/openstack/blockstorage/v3/snapshots"
-	"github.com/gophercloud/gophercloud/openstack/blockstorage/v3/volumes"
+	"github.com/RainbowMango/huaweicloud-sdk-go"
+	"github.com/RainbowMango/huaweicloud-sdk-go/acceptance/tools"
+	"github.com/RainbowMango/huaweicloud-sdk-go/openstack/blockstorage/v3/snapshots"
+	"github.com/RainbowMango/huaweicloud-sdk-go/openstack/blockstorage/v3/volumes"
 )
 
 // CreateVolume will create a volume with a random name and size of 1GB. An

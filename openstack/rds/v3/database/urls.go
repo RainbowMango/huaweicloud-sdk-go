@@ -1,6 +1,6 @@
 package database
 
-import "github.com/gophercloud/gophercloud"
+import "github.com/RainbowMango/huaweicloud-sdk-go"
 
 
 func createURL(sc *gophercloud.ServiceClient, instanceID string) string {

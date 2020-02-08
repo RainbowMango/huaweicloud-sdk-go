@@ -6,9 +6,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gophercloud/gophercloud/openstack/blockstorage/v2/extensions/apiversions"
-	th "github.com/gophercloud/gophercloud/testhelper"
-	"github.com/gophercloud/gophercloud/testhelper/client"
+	"github.com/RainbowMango/huaweicloud-sdk-go/openstack/blockstorage/v2/extensions/apiversions"
+	th "github.com/RainbowMango/huaweicloud-sdk-go/testhelper"
+	"github.com/RainbowMango/huaweicloud-sdk-go/testhelper/client"
 )
 
 const ManilaAPIVersionResponse = `

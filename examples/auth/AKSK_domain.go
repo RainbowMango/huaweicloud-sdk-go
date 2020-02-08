@@ -2,10 +2,10 @@ package examples
 
 import (
 	"fmt"
-	"github.com/gophercloud/gophercloud/auth/aksk"
-	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/openstack"
-	"github.com/gophercloud/gophercloud/openstack/identity/v3/users"
+	"github.com/RainbowMango/huaweicloud-sdk-go/auth/aksk"
+	"github.com/RainbowMango/huaweicloud-sdk-go"
+	"github.com/RainbowMango/huaweicloud-sdk-go/openstack"
+	"github.com/RainbowMango/huaweicloud-sdk-go/openstack/identity/v3/users"
 )
 
 // AuthAKSKUserList using AKSK auth method ,list users .

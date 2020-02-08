@@ -5,10 +5,10 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/gophercloud/gophercloud/openstack/vpc/v1/vpcs"
-	"github.com/gophercloud/gophercloud/testhelper/client"
+	"github.com/RainbowMango/huaweicloud-sdk-go/openstack/vpc/v1/vpcs"
+	"github.com/RainbowMango/huaweicloud-sdk-go/testhelper/client"
 
-	th "github.com/gophercloud/gophercloud/testhelper"
+	th "github.com/RainbowMango/huaweicloud-sdk-go/testhelper"
 )
 
 var CreateOutput = `

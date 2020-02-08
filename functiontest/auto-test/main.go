@@ -3,16 +3,16 @@ package main
 import (
 	"fmt"
 
-	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/auth/aksk"
-	"github.com/gophercloud/gophercloud/auth/token"
-	"github.com/gophercloud/gophercloud/openstack"
-	"github.com/gophercloud/gophercloud/openstack/compute/v2/extensions/bootfromvolume"
-	"github.com/gophercloud/gophercloud/openstack/compute/v2/extensions/bootwithscheduler"
-	"github.com/gophercloud/gophercloud/openstack/compute/v2/extensions/schedulerhints"
-	"github.com/gophercloud/gophercloud/openstack/compute/v2/servers"
-	"github.com/gophercloud/gophercloud/openstack/compute/v2/serversext"
-	"github.com/gophercloud/gophercloud/openstack/imageservice/v2/images"
+	"github.com/RainbowMango/huaweicloud-sdk-go"
+	"github.com/RainbowMango/huaweicloud-sdk-go/auth/aksk"
+	"github.com/RainbowMango/huaweicloud-sdk-go/auth/token"
+	"github.com/RainbowMango/huaweicloud-sdk-go/openstack"
+	"github.com/RainbowMango/huaweicloud-sdk-go/openstack/compute/v2/extensions/bootfromvolume"
+	"github.com/RainbowMango/huaweicloud-sdk-go/openstack/compute/v2/extensions/bootwithscheduler"
+	"github.com/RainbowMango/huaweicloud-sdk-go/openstack/compute/v2/extensions/schedulerhints"
+	"github.com/RainbowMango/huaweicloud-sdk-go/openstack/compute/v2/servers"
+	"github.com/RainbowMango/huaweicloud-sdk-go/openstack/compute/v2/serversext"
+	"github.com/RainbowMango/huaweicloud-sdk-go/openstack/imageservice/v2/images"
 )
 
 func main() {

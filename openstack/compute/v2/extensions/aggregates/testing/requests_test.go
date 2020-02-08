@@ -3,10 +3,10 @@ package testing
 import (
 	"testing"
 
-	"github.com/gophercloud/gophercloud/openstack/compute/v2/extensions/aggregates"
-	"github.com/gophercloud/gophercloud/pagination"
-	th "github.com/gophercloud/gophercloud/testhelper"
-	"github.com/gophercloud/gophercloud/testhelper/client"
+	"github.com/RainbowMango/huaweicloud-sdk-go/openstack/compute/v2/extensions/aggregates"
+	"github.com/RainbowMango/huaweicloud-sdk-go/pagination"
+	th "github.com/RainbowMango/huaweicloud-sdk-go/testhelper"
+	"github.com/RainbowMango/huaweicloud-sdk-go/testhelper/client"
 )
 
 func TestListAggregates(t *testing.T) {

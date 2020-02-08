@@ -1,6 +1,6 @@
 package periodresource
 
-import "github.com/gophercloud/gophercloud"
+import "github.com/RainbowMango/huaweicloud-sdk-go"
 
 //GET /v1.0/{partner_id}/common/order-mgr/resources/detail 查询客户包周期资源列表
 func getQueryCustomerPeriodResourcesListURL(client *gophercloud.ServiceClient, domainId string) string {

@@ -6,9 +6,9 @@ import (
 	"testing"
 	"time"
 
-	az "github.com/gophercloud/gophercloud/openstack/compute/v2/extensions/availabilityzones"
-	th "github.com/gophercloud/gophercloud/testhelper"
-	"github.com/gophercloud/gophercloud/testhelper/client"
+	az "github.com/RainbowMango/huaweicloud-sdk-go/openstack/compute/v2/extensions/availabilityzones"
+	th "github.com/RainbowMango/huaweicloud-sdk-go/testhelper"
+	"github.com/RainbowMango/huaweicloud-sdk-go/testhelper/client"
 )
 
 const GetOutput = `

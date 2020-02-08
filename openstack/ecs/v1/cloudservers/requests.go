@@ -3,8 +3,8 @@ package cloudservers
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/pagination"
+	"github.com/RainbowMango/huaweicloud-sdk-go"
+	"github.com/RainbowMango/huaweicloud-sdk-go/pagination"
 )
 
 // Get requests details on a single server, by ID.

@@ -3,10 +3,10 @@ package testing
 import (
 	"testing"
 
-	"github.com/gophercloud/gophercloud/openstack/orchestration/v1/stackevents"
-	"github.com/gophercloud/gophercloud/pagination"
-	th "github.com/gophercloud/gophercloud/testhelper"
-	fake "github.com/gophercloud/gophercloud/testhelper/client"
+	"github.com/RainbowMango/huaweicloud-sdk-go/openstack/orchestration/v1/stackevents"
+	"github.com/RainbowMango/huaweicloud-sdk-go/pagination"
+	th "github.com/RainbowMango/huaweicloud-sdk-go/testhelper"
+	fake "github.com/RainbowMango/huaweicloud-sdk-go/testhelper/client"
 )
 
 func TestFindEvents(t *testing.T) {

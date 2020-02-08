@@ -5,9 +5,9 @@ package v1
 import (
 	"testing"
 
-	"github.com/gophercloud/gophercloud/acceptance/clients"
-	"github.com/gophercloud/gophercloud/acceptance/tools"
-	"github.com/gophercloud/gophercloud/openstack/blockstorage/v1/snapshots"
+	"github.com/RainbowMango/huaweicloud-sdk-go/acceptance/clients"
+	"github.com/RainbowMango/huaweicloud-sdk-go/acceptance/tools"
+	"github.com/RainbowMango/huaweicloud-sdk-go/openstack/blockstorage/v1/snapshots"
 )
 
 func TestSnapshotsList(t *testing.T) {

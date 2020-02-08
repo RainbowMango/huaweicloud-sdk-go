@@ -3,7 +3,7 @@ package cloudimages
 import (
 	"net/url"
 
-	"github.com/gophercloud/gophercloud"
+	"github.com/RainbowMango/huaweicloud-sdk-go"
 )
 
 func listURL(c *gophercloud.ServiceClient) string {

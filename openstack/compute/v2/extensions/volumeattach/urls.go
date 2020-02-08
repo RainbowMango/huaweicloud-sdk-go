@@ -1,7 +1,7 @@
 package volumeattach
 
 import (
-	"github.com/gophercloud/gophercloud"
+	"github.com/RainbowMango/huaweicloud-sdk-go"
 	"fmt"
 	"strconv"
 )

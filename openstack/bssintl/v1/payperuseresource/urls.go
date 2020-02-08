@@ -1,6 +1,6 @@
 package payperuseresource
 
-import "github.com/gophercloud/gophercloud"
+import "github.com/RainbowMango/huaweicloud-sdk-go"
 
 //POST /v1.0/{partner_id}/partner/customer-mgr/customer-resource/query-resources
 func getQueryCustomerResourceURL(client *gophercloud.ServiceClient, domainId string) string {

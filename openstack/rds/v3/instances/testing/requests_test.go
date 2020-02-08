@@ -2,13 +2,13 @@ package testing
 
 import (
 	"fmt"
-	"github.com/gophercloud/gophercloud"
+	"github.com/RainbowMango/huaweicloud-sdk-go"
 	"testing"
 
-	"github.com/gophercloud/gophercloud/openstack/rds/v3/instances"
-	"github.com/gophercloud/gophercloud/pagination"
-	th "github.com/gophercloud/gophercloud/testhelper"
-	"github.com/gophercloud/gophercloud/testhelper/client"
+	"github.com/RainbowMango/huaweicloud-sdk-go/openstack/rds/v3/instances"
+	"github.com/RainbowMango/huaweicloud-sdk-go/pagination"
+	th "github.com/RainbowMango/huaweicloud-sdk-go/testhelper"
+	"github.com/RainbowMango/huaweicloud-sdk-go/testhelper/client"
 )
 
 func TestList(t *testing.T) {

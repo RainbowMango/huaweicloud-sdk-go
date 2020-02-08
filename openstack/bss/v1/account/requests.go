@@ -2,7 +2,7 @@ package account
 
 import (
 	"fmt"
-	"github.com/gophercloud/gophercloud"
+	"github.com/RainbowMango/huaweicloud-sdk-go"
 	"math"
 )
 

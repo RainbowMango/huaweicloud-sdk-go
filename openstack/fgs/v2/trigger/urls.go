@@ -1,6 +1,6 @@
 package trigger
 
-import "github.com/gophercloud/gophercloud"
+import "github.com/RainbowMango/huaweicloud-sdk-go"
 
 const (
     FGS     = "fgs"

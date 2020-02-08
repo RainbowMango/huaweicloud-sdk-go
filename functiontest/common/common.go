@@ -9,10 +9,10 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/auth/aksk"
-	"github.com/gophercloud/gophercloud/auth/token"
-	"github.com/gophercloud/gophercloud/openstack"
+	"github.com/RainbowMango/huaweicloud-sdk-go"
+	"github.com/RainbowMango/huaweicloud-sdk-go/auth/aksk"
+	"github.com/RainbowMango/huaweicloud-sdk-go/auth/token"
+	"github.com/RainbowMango/huaweicloud-sdk-go/openstack"
 )
 
 func AuthAKSK() (*gophercloud.ProviderClient, error) {

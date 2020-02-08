@@ -8,17 +8,17 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/auth"
-	akskAuth "github.com/gophercloud/gophercloud/auth/aksk"
-	tokenAuth "github.com/gophercloud/gophercloud/auth/token"
-	tokens2 "github.com/gophercloud/gophercloud/openstack/identity/v2/tokens"
-	tokens3 "github.com/gophercloud/gophercloud/openstack/identity/v3/tokens"
-	"github.com/gophercloud/gophercloud/openstack/utils"
+	"github.com/RainbowMango/huaweicloud-sdk-go"
+	"github.com/RainbowMango/huaweicloud-sdk-go/auth"
+	akskAuth "github.com/RainbowMango/huaweicloud-sdk-go/auth/aksk"
+	tokenAuth "github.com/RainbowMango/huaweicloud-sdk-go/auth/token"
+	tokens2 "github.com/RainbowMango/huaweicloud-sdk-go/openstack/identity/v2/tokens"
+	tokens3 "github.com/RainbowMango/huaweicloud-sdk-go/openstack/identity/v3/tokens"
+	"github.com/RainbowMango/huaweicloud-sdk-go/openstack/utils"
 
-	"github.com/gophercloud/gophercloud/openstack/identity/v3/endpoints"
-	"github.com/gophercloud/gophercloud/openstack/identity/v3/services"
-	"github.com/gophercloud/gophercloud/pagination"
+	"github.com/RainbowMango/huaweicloud-sdk-go/openstack/identity/v3/endpoints"
+	"github.com/RainbowMango/huaweicloud-sdk-go/openstack/identity/v3/services"
+	"github.com/RainbowMango/huaweicloud-sdk-go/pagination"
 	"encoding/json"
 )
 

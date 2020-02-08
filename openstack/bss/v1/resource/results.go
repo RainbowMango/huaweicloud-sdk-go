@@ -1,7 +1,7 @@
 package resource
 
 import (
-	"github.com/gophercloud/gophercloud"
+	"github.com/RainbowMango/huaweicloud-sdk-go"
 )
 
 type Resources struct {

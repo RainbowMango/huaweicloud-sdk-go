@@ -1,6 +1,6 @@
 package testing
 
-import "github.com/gophercloud/gophercloud/openstack/fgs/v2/trigger"
+import "github.com/RainbowMango/huaweicloud-sdk-go/openstack/fgs/v2/trigger"
 
 var Triggers = `
 [

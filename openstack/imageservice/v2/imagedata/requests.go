@@ -4,7 +4,7 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/gophercloud/gophercloud"
+	"github.com/RainbowMango/huaweicloud-sdk-go"
 )
 
 // Upload uploads an image file.

@@ -1,6 +1,6 @@
 package instances
 
-import "github.com/gophercloud/gophercloud"
+import "github.com/RainbowMango/huaweicloud-sdk-go"
 
 func createURL(sc *gophercloud.ServiceClient) string {
 	return sc.ServiceURL("instances")

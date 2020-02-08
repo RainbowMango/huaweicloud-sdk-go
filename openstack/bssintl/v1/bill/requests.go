@@ -1,6 +1,6 @@
 package bill
 
-import "github.com/gophercloud/gophercloud"
+import "github.com/RainbowMango/huaweicloud-sdk-go"
 
 type QueryPartnerMonthlyBillsOpts struct {
 	//Month in the yyyy-MM format.

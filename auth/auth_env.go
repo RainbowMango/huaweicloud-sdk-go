@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/auth/token"
-	"github.com/gophercloud/gophercloud/auth/aksk"
+	"github.com/RainbowMango/huaweicloud-sdk-go"
+	"github.com/RainbowMango/huaweicloud-sdk-go/auth/token"
+	"github.com/RainbowMango/huaweicloud-sdk-go/auth/aksk"
 )
 
 var nilTokenOptions = token.TokenOptions{}

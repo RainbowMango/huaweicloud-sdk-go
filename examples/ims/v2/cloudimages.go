@@ -2,10 +2,10 @@ package main
 
 import (
 	"fmt"
-	"github.com/gophercloud/gophercloud/openstack/ims/v2/cloudimages"
-	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/auth/token"
-	"github.com/gophercloud/gophercloud/openstack"
+	"github.com/RainbowMango/huaweicloud-sdk-go/openstack/ims/v2/cloudimages"
+	"github.com/RainbowMango/huaweicloud-sdk-go"
+	"github.com/RainbowMango/huaweicloud-sdk-go/auth/token"
+	"github.com/RainbowMango/huaweicloud-sdk-go/openstack"
 )
 
 func main() {

@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"encoding/json"
 
-	"github.com/gophercloud/gophercloud/functiontest/common"
-	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/openstack"
-	"github.com/gophercloud/gophercloud/openstack/ecs/v1/flavor"
+	"github.com/RainbowMango/huaweicloud-sdk-go/functiontest/common"
+	"github.com/RainbowMango/huaweicloud-sdk-go"
+	"github.com/RainbowMango/huaweicloud-sdk-go/openstack"
+	"github.com/RainbowMango/huaweicloud-sdk-go/openstack/ecs/v1/flavor"
 )
 
 func main()  {

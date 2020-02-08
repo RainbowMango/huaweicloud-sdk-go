@@ -3,14 +3,14 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/auth/aksk"
-	"github.com/gophercloud/gophercloud/openstack"
-	"github.com/gophercloud/gophercloud/openstack/rds/v3/instances"
-	"github.com/gophercloud/gophercloud/openstack/vpc/v1/securitygroups"
-	"github.com/gophercloud/gophercloud/openstack/vpc/v1/subnets"
-	"github.com/gophercloud/gophercloud/openstack/vpc/v1/vpcs"
-	"github.com/gophercloud/gophercloud/pagination"
+	"github.com/RainbowMango/huaweicloud-sdk-go"
+	"github.com/RainbowMango/huaweicloud-sdk-go/auth/aksk"
+	"github.com/RainbowMango/huaweicloud-sdk-go/openstack"
+	"github.com/RainbowMango/huaweicloud-sdk-go/openstack/rds/v3/instances"
+	"github.com/RainbowMango/huaweicloud-sdk-go/openstack/vpc/v1/securitygroups"
+	"github.com/RainbowMango/huaweicloud-sdk-go/openstack/vpc/v1/subnets"
+	"github.com/RainbowMango/huaweicloud-sdk-go/openstack/vpc/v1/vpcs"
+	"github.com/RainbowMango/huaweicloud-sdk-go/pagination"
 	"time"
 )
 

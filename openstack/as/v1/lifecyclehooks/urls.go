@@ -1,7 +1,7 @@
 package lifecyclehooks
 
 import (
-	"github.com/gophercloud/gophercloud"
+	"github.com/RainbowMango/huaweicloud-sdk-go"
 )
 
 func CallBackURL(c *gophercloud.ServiceClient, scalingGroupId string) string {

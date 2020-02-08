@@ -1,11 +1,11 @@
 package main
 
 import (
-	"github.com/gophercloud/gophercloud"
+	"github.com/RainbowMango/huaweicloud-sdk-go"
 	"fmt"
-	"github.com/gophercloud/gophercloud/auth/token"
-	"github.com/gophercloud/gophercloud/openstack"
-	az "github.com/gophercloud/gophercloud/openstack/compute/v2/extensions/availabilityzones"
+	"github.com/RainbowMango/huaweicloud-sdk-go/auth/token"
+	"github.com/RainbowMango/huaweicloud-sdk-go/openstack"
+	az "github.com/RainbowMango/huaweicloud-sdk-go/openstack/compute/v2/extensions/availabilityzones"
 )
 
 func main() {

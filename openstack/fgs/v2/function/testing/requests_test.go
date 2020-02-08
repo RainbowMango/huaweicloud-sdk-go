@@ -4,10 +4,10 @@ import (
     "fmt"
     "testing"
     "net/http"
-    "github.com/gophercloud/gophercloud"
-    "github.com/gophercloud/gophercloud/testhelper"
-    "github.com/gophercloud/gophercloud/openstack/fgs/v2/function"
-    "github.com/gophercloud/gophercloud/testhelper/client"
+    "github.com/RainbowMango/huaweicloud-sdk-go"
+    "github.com/RainbowMango/huaweicloud-sdk-go/testhelper"
+    "github.com/RainbowMango/huaweicloud-sdk-go/openstack/fgs/v2/function"
+    "github.com/RainbowMango/huaweicloud-sdk-go/testhelper/client"
 )
 
 var url string

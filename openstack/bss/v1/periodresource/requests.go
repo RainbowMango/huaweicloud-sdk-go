@@ -1,7 +1,7 @@
 package periodresource
 
 import (
-	"github.com/gophercloud/gophercloud"
+	"github.com/RainbowMango/huaweicloud-sdk-go"
 )
 
 type QueryCustomerPeriodResourcesListOpts struct {

@@ -1,6 +1,6 @@
 package payperuseresource
 
-import "github.com/gophercloud/gophercloud"
+import "github.com/RainbowMango/huaweicloud-sdk-go"
 
 type QueryCustomerResourceOpts struct {
 	//Customer resource ID.

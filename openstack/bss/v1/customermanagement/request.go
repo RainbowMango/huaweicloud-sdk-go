@@ -2,7 +2,7 @@ package customermanagement
 
 import (
 	"encoding/json"
-	"github.com/gophercloud/gophercloud"
+	"github.com/RainbowMango/huaweicloud-sdk-go"
 )
 
 type CheckCustomerRegisterInfoOpts struct {

@@ -3,7 +3,7 @@ package apiversions
 import (
 	"strings"
 
-	"github.com/gophercloud/gophercloud"
+	"github.com/RainbowMango/huaweicloud-sdk-go"
 )
 
 func apiVersionsURL(c *gophercloud.ServiceClient) string {

@@ -6,10 +6,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/openstack/orchestration/v1/stackresources"
-	th "github.com/gophercloud/gophercloud/testhelper"
-	fake "github.com/gophercloud/gophercloud/testhelper/client"
+	"github.com/RainbowMango/huaweicloud-sdk-go"
+	"github.com/RainbowMango/huaweicloud-sdk-go/openstack/orchestration/v1/stackresources"
+	th "github.com/RainbowMango/huaweicloud-sdk-go/testhelper"
+	fake "github.com/RainbowMango/huaweicloud-sdk-go/testhelper/client"
 )
 
 // FindExpected represents the expected object from a Find request.

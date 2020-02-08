@@ -1,7 +1,7 @@
 package logs
 
 import (
-	"github.com/gophercloud/gophercloud/pagination"
+	"github.com/RainbowMango/huaweicloud-sdk-go/pagination"
 	"strconv"
 )
 

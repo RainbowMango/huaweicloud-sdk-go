@@ -1,7 +1,7 @@
 package realnameauth
 
 import (
-	"github.com/gophercloud/gophercloud"
+	"github.com/RainbowMango/huaweicloud-sdk-go"
 )
 
 type IndividualRealNameAuthOpts struct {

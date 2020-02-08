@@ -1,6 +1,6 @@
 package periodorder
 
-import "github.com/gophercloud/gophercloud"
+import "github.com/RainbowMango/huaweicloud-sdk-go"
 
 //GET /v1.0/{domain_id}/common/order-mgr/orders/detail
 func getQueryOrderListURL(client *gophercloud.ServiceClient, domainId string) string {

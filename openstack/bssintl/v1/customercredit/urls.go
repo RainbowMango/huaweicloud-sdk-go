@@ -1,6 +1,6 @@
 package customercredit
 
-import "github.com/gophercloud/gophercloud"
+import "github.com/RainbowMango/huaweicloud-sdk-go"
 
 //GET /v1.0/{partner_id}/partner/account-mgr/credit
 func getQueryCreditURL(client *gophercloud.ServiceClient, domainId string) string {

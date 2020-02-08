@@ -1,7 +1,7 @@
 package securitygrouprules
 
 import (
-	"github.com/gophercloud/gophercloud"
+	"github.com/RainbowMango/huaweicloud-sdk-go"
 )
 
 func CreateURL(c *gophercloud.ServiceClient) string {

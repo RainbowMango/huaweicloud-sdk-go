@@ -1,10 +1,10 @@
 package users
 
 import (
-	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/openstack/identity/v3/groups"
-	"github.com/gophercloud/gophercloud/openstack/identity/v3/projects"
-	"github.com/gophercloud/gophercloud/pagination"
+	"github.com/RainbowMango/huaweicloud-sdk-go"
+	"github.com/RainbowMango/huaweicloud-sdk-go/openstack/identity/v3/groups"
+	"github.com/RainbowMango/huaweicloud-sdk-go/openstack/identity/v3/projects"
+	"github.com/RainbowMango/huaweicloud-sdk-go/pagination"
 )
 
 // Option is a specific option defined at the API to enable features

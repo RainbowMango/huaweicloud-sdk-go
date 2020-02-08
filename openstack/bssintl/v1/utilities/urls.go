@@ -1,6 +1,6 @@
 package utilities
 
-import "github.com/gophercloud/gophercloud"
+import "github.com/RainbowMango/huaweicloud-sdk-go"
 
 //POST /v1.0/{partner_id}/partner/common-mgr/verificationcode
 func getSendVerificationCodeURL(client *gophercloud.ServiceClient, domainId string) string {

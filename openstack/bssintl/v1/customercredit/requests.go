@@ -2,7 +2,7 @@ package customercredit
 
 import (
 	"encoding/json"
-	"github.com/gophercloud/gophercloud"
+	"github.com/RainbowMango/huaweicloud-sdk-go"
 )
 
 type QueryCreditOpts struct {

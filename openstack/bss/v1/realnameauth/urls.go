@@ -1,6 +1,6 @@
 package realnameauth
 
-import "github.com/gophercloud/gophercloud"
+import "github.com/RainbowMango/huaweicloud-sdk-go"
 
 //POST /v1.0/{partner_id}/partner/customer-mgr/realname-auth/individual
 func getIndividualRealNameAuthURL(client *gophercloud.ServiceClient, domainId string) string {
